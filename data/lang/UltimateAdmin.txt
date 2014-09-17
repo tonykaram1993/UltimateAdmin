@@ -1,0 +1,15 @@
+[en]
+ADMIN_ANONYMOUS_NOT		= You are no longer anonymous.
+ADMIN_ANONYMOUS			= You are now an anonymous admin.
+ADMIN_ANONYMOUS_INFO		= If you would like to issue a command, please use amx_ua_command <command>.
+
+PRINT_DISCONNECTED		= Undercover admin %s has left the server.
+PRINT_NOT_UNDERCOVER		= %s is not undercover anymore.
+PRINT_IS_UNDERCOVER		= %s is now undercover.
+PRINT_NAME_CHANGE		= %s is now anonymous after name change.
+PRINT_COMMAND			= %s issued a command: %s.
+
+LIST_HEADER			= #ID || Name || Status
+LIST_FOOTER			= Number of anonymous admins found: %d.
+
+COMMAND_SUCCESS			= Command successfully executed.
